@@ -1,6 +1,6 @@
 # flutter_qunar
 
-A new Flutter project.
+Flutter 模仿去哪儿
 
 ## Getting Started
 
